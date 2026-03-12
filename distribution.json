@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "servers": [
+        {
+            "id": "outpost",
+            "name": "The Outpost",
+            "description": "Военный сервер с модами",
+            "address": "outpostmc.20tps.ru",
+            "minecraftVersion": "1.20.1",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
